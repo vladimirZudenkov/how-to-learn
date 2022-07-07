@@ -40,9 +40,7 @@
 .logo {
   width: 228px;
   height: 32px;
- /* background-repeat: no-repeat;
-  background-size: cover;*/
-}
+ }
 
 .logo_place_header {
   position: absolute;
@@ -295,7 +293,6 @@
 
 .logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
- /* height: 32px;*/
 }
 
 .footer__column_content_copyright {
