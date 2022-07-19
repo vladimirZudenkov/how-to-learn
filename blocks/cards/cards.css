@@ -1,0 +1,9 @@
+
+.cards {
+  display: flex;
+  max-width: 920px;
+  flex-wrap: wrap;
+  align-items: baseline;
+  text-align: center;
+  column-gap: 100px;
+}
