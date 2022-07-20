@@ -1,8 +1,8 @@
-/* импорт глобальных стилей */
+/* импорт глобальные стили */
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 
-/* импорт стилей блока header*/
+/* импорт стили блок header*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
@@ -12,10 +12,10 @@
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 
-/* импорт стилей блока content*/
+/* импорт стили блок content*/
 @import url(../blocks/content/content.css);
 
-/* импорт стилей блока discription*/
+/* импорт стили блок discription*/
 @import url(../blocks/description/description.css);
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
@@ -23,7 +23,7 @@
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 
-/* импорт стилей блока techniques*/
+/* импорт стили блок techniques*/
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__item/cards__item.css);
@@ -31,15 +31,15 @@
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
 
-/* импорт стилей блока video*/
+/* импорт стили блок video*/
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 
-/* импорт стилей блока oakley*/
+/* импорт стили блок oakley*/
 @import url(../blocks/oakley/oakley.css);
 
-/* импорт стилей блока digits*/
+/* импорт стили блок digits*/
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
@@ -48,13 +48,13 @@
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
 
-/* импорт стилей блока feynman*/
+/* импорт стили блок feynman*/
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
 
-/* импорт стилей блока khan*/
+/* импорт стили блок khan*/
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__container/khan__container.css);
 @import url(../blocks/khan/__author/khan__author.css);
@@ -66,7 +66,7 @@
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
 
-/* импорт стилей блока kaufman*/
+/* импорт стили блок kaufman*/
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
 @import url(../blocks/table/__cell_theme/table__cell_theme_dark.css);
@@ -74,12 +74,12 @@
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
-/* импорт стилей блока resources*/
+/* импорт стили блок resources*/
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 
-/* импорт стилей блока footer*/
+/* импорт стили блок footer*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
@@ -90,5 +90,5 @@
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
-/* импорт стилей блока анимации*/
+/* импорт стили блок анимации*/
 @import url(../blocks/rotation/rotation.css);
